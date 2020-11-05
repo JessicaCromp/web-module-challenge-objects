@@ -17,6 +17,7 @@ function createMenuItem(name, price, category){
 }
 
 
+console.log(createMenuItem('tacos', 12, 'Lunch'));
 
 // function createMenuItem(/*Your code here*/){
 //     /*Your code here*/
